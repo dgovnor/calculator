@@ -1,0 +1,45 @@
+body {
+  background-color: blue;
+}
+.calculator {
+  width: 300px;
+  height: 420px;
+  margin: auto;
+  border-radius: 5px;
+  background-color: #a6a6a6;
+  box-shadow: 2px 2px 20px black;
+}
+#disPlay {
+  background-color: #fffde6;
+  position: relative;
+  top: 20px;
+  left: 10px;
+  width: 280px;
+  height: 90px;
+  border-radius: 5px;
+  font-size: 30px;
+  text-align: right;
+  overflow: hidden;
+  cursor: text;
+}
+table {
+  margin: 20px 5px 10px 1px;
+  width: 300px;
+}
+
+td {
+  width: 60px;
+  height: 45px;
+  text-align: center;
+  background-color: #e6e6e6;
+  border-style: inset;
+  border-radius: 5px;
+}
+button {
+  font-weight: bolder;
+  font-size: 20px;
+  width: 50px;
+  height: 40px;
+  border: none;
+  background: none;
+}
